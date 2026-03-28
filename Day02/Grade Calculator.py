@@ -1,4 +1,4 @@
-#Grade Calculator
+#Grade Calculator program
 
 math=float(input("Enter your marks in Mathematics:"))
 sci=float(input("Enter your marks in Science:"))
