@@ -1,4 +1,4 @@
-# Day 2 - Conditions Practice
+# Day 2 - Conditions Practice 
 
 Today I practiced using conditions (if-else) in Python and built some small programs.
 
