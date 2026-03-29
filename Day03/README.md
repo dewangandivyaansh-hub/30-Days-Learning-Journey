@@ -1,4 +1,4 @@
-# Day 3 - Loops Practice
+# Day 3 - Loops Practice 
 
 Today I learned about loops in Python and used them to build some programs.
 
