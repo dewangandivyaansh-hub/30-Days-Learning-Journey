@@ -1,4 +1,4 @@
-# Day 1 - Python Practice
+# Day 1 - Python Practice 
 
 Today I worked on some basic Python programs to understand how input, output and simple logic works.
 
