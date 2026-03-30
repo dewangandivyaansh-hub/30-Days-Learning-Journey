@@ -1,4 +1,4 @@
-# Day 4 - Pattern Programs
+# Day 4 - Pattern Programs 
 
 Today I worked on pattern-based problems using nested loops. These were a bit challenging but helped me understand loops more deeply.
 
