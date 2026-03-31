@@ -1,4 +1,4 @@
-# Day 5 - String Programs
+# Day 5 - String Programs 
 
 Today I worked with strings in Python and built some useful programs.
 
