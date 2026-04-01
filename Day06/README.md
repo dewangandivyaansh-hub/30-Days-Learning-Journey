@@ -1,4 +1,4 @@
-# Day 6 - List Programs
+# Day 6 - List Programs 
 
 Today I learned about lists in Python and how to work with multiple values together.
 
