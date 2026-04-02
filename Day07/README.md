@@ -1,4 +1,4 @@
-# Day 7 - Functions Practice
+# Day 7 - Functions Practice 
 
 Today I focused on using functions to build structured and reusable programs.
 
