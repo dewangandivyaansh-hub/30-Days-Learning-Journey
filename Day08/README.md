@@ -1,6 +1,6 @@
 # Day 8 - Lists and Functions Projects
 
-Today I combined lists and functions to build more structured and practical programs.
+Today I combined lists and functions to build more structured and practical programs. 
 
 ## Projects
 
