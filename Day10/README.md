@@ -1,4 +1,4 @@
-# Day 10 - Mini Project (Student Management System)
+# Day 10 - Mini Project (Student Management System) 
 
 Today I built a file-based student management system using Python.
 
