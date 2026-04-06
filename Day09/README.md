@@ -1,4 +1,4 @@
-# Day 9 - File Handling Projects
+# Day 9 - File Handling Projects 
 
 Today I worked with file handling in Python and built programs that store data permanently.
 
