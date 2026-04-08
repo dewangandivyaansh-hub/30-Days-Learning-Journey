@@ -1,4 +1,4 @@
-# Day 12 - Dictionary Programs 
+# Day 12 - Dictionary Programs
 
 Today I learned about dictionaries in Python and used them to store structured data.
 
