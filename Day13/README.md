@@ -1,4 +1,4 @@
-# Day 13 - Dictionary + File Handling
+# Day 13 - Dictionary + File Handling 
 
 Today I combined dictionaries and file handling to build more practical programs.
 
