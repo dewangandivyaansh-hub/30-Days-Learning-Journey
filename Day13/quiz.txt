@@ -1,0 +1,5 @@
+What is 5+3?|6|7|8|9|8
+Which language is used for web development?|Python|HTML|C++|Java|HTML
+Capital of Gujarat?|Surat|Ahmedabad|Gandhinagar|Rajkot|Gandhinagar
+Who developed Python?|Dennis Ritchie|James Gosling|Guido van Rossum|Bjarne Stroustrup|Guido van Rossum
+Which is the largest planet?|Earth|Mars|Jupiter|Saturn|Jupiter
