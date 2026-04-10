@@ -1,0 +1,10 @@
+Delhi,220
+Mumbai,140
+Pune,90
+Ahmedabad,180
+Surat,160
+Bangalore,85
+Chennai,110
+Kolkata,200
+Hyderabad,130
+Jaipur,170
