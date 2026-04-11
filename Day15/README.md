@@ -1,4 +1,4 @@
-# Day 15 - Expense Tracker (Final Python Project) 
+# Day 15 - Expense Tracker (Final Python Project)
 
 Today I built a personal expense tracker as my final Python project.
 
