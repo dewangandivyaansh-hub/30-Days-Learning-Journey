@@ -1,4 +1,4 @@
-# Day 16 - Introduction to HTML
+# Day 16 - Introduction to HTML 
 
 Today I started learning web development with HTML.
 
