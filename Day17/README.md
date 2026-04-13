@@ -1,4 +1,4 @@
-# Day 17 - CSS Styling
+# Day 17 - CSS Styling 
 
 Today I learned CSS and improved my webpage design.
 
