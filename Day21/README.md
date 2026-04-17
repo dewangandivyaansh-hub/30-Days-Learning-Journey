@@ -1,4 +1,4 @@
-# Day 21 - Introduction to JavaScript
+# Day 21 - Introduction to JavaScript 
 
 Today I started learning JavaScript and made my portfolio website interactive.
 
