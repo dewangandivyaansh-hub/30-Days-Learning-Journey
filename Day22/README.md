@@ -1,4 +1,4 @@
-# Day 22 - DOM Manipulation
+# Day 22 - DOM Manipulation 
 
 Today I learned DOM manipulation using JavaScript.
 
