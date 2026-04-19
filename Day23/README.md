@@ -1,4 +1,4 @@
-# Day 23 - Dark Mode Theme Switch
+# Day 23 - Dark Mode Theme Switch 
 
 Today I added a dark mode button using JavaScript.
 
