@@ -1,4 +1,4 @@
-# Day 24 - Proper Theme Toggle
+# Day 24 - Proper Theme Toggle 
 
 Today I improved the dark mode feature with a proper toggle button.
 
