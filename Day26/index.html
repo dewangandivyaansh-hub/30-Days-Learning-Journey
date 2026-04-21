@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Home - My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <section>
+        <h1>Contact Me</h1>
+
+        <form onsubmit="submitForm(event)">
+            <input type="text" id="name" placeholder="Enter your name" required>
+            <br><br>
+
+            <input type="email" id="email" placeholder="Enter your email" required>
+            <br><br>
+
+            <textarea id="message" placeholder="Write your message" rows="5" cols="30" required></textarea>
+            <br><br>
+
+            <button type="submit">Send Message</button>
+        </form>
+
+        <p id="response"></p>
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
