@@ -1,4 +1,4 @@
-# Day 26 - Form Validation
+# Day 26 - Form Validation 
 
 Today I improved the contact form by adding validation.
 
