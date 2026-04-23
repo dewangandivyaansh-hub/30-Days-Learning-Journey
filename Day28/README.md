@@ -1,4 +1,4 @@
-# Day 28 - To-Do List with Local Storage
+# Day 28 - To-Do List with Local Storage 
 
 Today I improved my to-do list app by saving tasks in local storage.
 
