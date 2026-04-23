@@ -1,4 +1,4 @@
-# Day 27 - Mini To-Do List App
+# Day 27 - Mini To-Do List App 
 
 Today I built a mini to-do list application using JavaScript.
 
