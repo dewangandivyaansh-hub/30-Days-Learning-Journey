@@ -1,4 +1,4 @@
-# Day 29 - Advanced To-Do List Features
+# Day 29 - Advanced To-Do List Features 
 
 Today I upgraded my to-do list app with edit and complete task features.
 
