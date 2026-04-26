@@ -1,4 +1,4 @@
-# Day 30 - Final Project Showcase
+# Day 30 - Final Project Showcase 
 
 Today I completed my 30-day web development journey.
 
